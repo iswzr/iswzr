@@ -1,29 +1,31 @@
-# Hi there 👋
+# Hi there! I'm Israr Ahmad 👋
 
-I'm Israr Ahmad, a data analyst eager to turn raw data into actionable insights. Currently an apprentice sharpening my skills in Python, Tableau, Excel, and more. 
+## About Me 🚀
+I'm a Data Analyst from Peshawar, Pakistan, who loves turning data into insights! Currently working with Power BI and SQL to help businesses make smarter decisions. Economics graduate turned data enthusiast!
 
-## 👀 Interests
+## What I Work With 🛠️
+- Power BI (my favorite!) 📊
+- SQL (MySQL, PostgreSQL) 💾
+- Tableau 📈
+- Python 🐍
+- Excel 📑
 
-- Transforming data into visualizations and models that uncover trends and opportunities 
-- Telling compelling stories with data to influence decisions and strategy
-- Collaborating with cross-functional teams to solve complex business challenges
+## My Recent Projects 💡
+- **Retail Super-Store Analytics Dashboard 📊**: A comprehensive Power BI dashboard analyzing retail performance and sales trends
+- **Super Store Sales Analysis Dashboard**: Comprehensive Power BI dashboard providing data-driven visibility into a nationwide super-store's sales, profits, and regional performance. Empowers strategic decision-making for this dynamic retail business.
+- **🏗️ Construction Project Management Dashboard**:  Built a dynamic Construction Project Management dashboard in Power BI that tracks 100 projects across the US, monitoring $1.68M in budgets, task priorities, and manager performance through interactive visualizations. From budget trends to Gantt charts
+- **Post-Pandemic MTA Transport Data Analysis Using Power BI**: Analyzing post-pandemic transit trends for New York's Metropolitan Transportation Authority (MTA). This dashboard highlights ridership recovery, seasonal patterns, and key insights to support strategic planning for North America’s largest transit network.
+- **Pizza Sales Analysis 🍕**: This is my SQL project analyzing pizza sales data. I had fun digging into the numbers to find some interesting patterns about how a pizza place operates.
 
-## 🌱 Currently Learning
+## What I'm Learning 📚
+Currently sharpening my data analytics skills through Python Statistical Analysis. Always excited to learn new tools and techniques!
 
-- Advanced statistical analysis and data modeling with Python, R, and SQL
-- Data storytelling and visualization best practices 
-- Web scraping and APIs for gathering new data sources
-- Tableau and Power BI for interactive dashboards and reports
-
-## 💞️ Seeking Collaboration  
-
-- Open to collaborating on economic, marketing, or operations analytics projects
-- Interested in hands-on work that makes an impact for clients and stakeholders
-- Excited to take on new challenges and continue rapidly developing my skills
-
-## 📫 Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/iswxr/
+## Let's Connect! 🤝
 - Email: israrwaser@gmail.com
+- LinkedIn: [[Israr Ahmad](https://www.linkedin.com/in/iswxr/)]
+- Power BI: [[Israr Ahmad](https://mavenanalytics.io/profile/Israr-Ahmad/210888282?index)]
 
-Let's connect! I'm always eager to unwrap new data insights together.
+Fun fact: I speak three languages - English, Urdu, and Pashto! 🗣️
+
+---
+*Currently open to data analyst opportunities and collaborations!* ✨
