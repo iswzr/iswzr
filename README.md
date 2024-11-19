@@ -1,7 +1,7 @@
 # Hi there! I'm Israr Ahmad 👋
 
 ## About Me 🚀
-I'm a Data Analyst from Peshawar, Pakistan, who loves turning data into insights! Currently working with Power BI and SQL to help businesses make smarter decisions. Economics graduate turned data enthusiast!
+I'm a Data Analyst from Faisalabad, Pakistan, who loves turning data into insights! Currently working with Power BI and SQL to help businesses make smarter decisions. Economics graduate turned data enthusiast!
 
 ## What I Work With 🛠️
 - Power BI (my favorite!) 📊
