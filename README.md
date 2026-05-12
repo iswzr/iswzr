@@ -1,4 +1,4 @@
-$readmeContent = @"
+
 # Hi there! I'm Israr Ahmad 👋
 
 <div align="left">
@@ -35,10 +35,8 @@ Currently diving deeper into Python for advanced automation and web scraping, ex
 * **LinkedIn:** [Israr Ahmad](https://www.linkedin.com/in/iswxr/)
 * **Portfolio / SaaS:** [clinicos.com.pk](https://clinicos.com.pk)
 
-Fun fact: I speak three languages (English, Urdu, and Pashto) and I'm a massive football stats nerd (always tracking Messi and Ronaldo's xG)! 🗣️⚽
+Fun fact: I speak three languages (English, Urdu, and Pashto) and I'm a massive football stats nerd (always tracking Messi)! 🗣️⚽
 
 ---
 *Currently open to data analytics opportunities and collaborative projects!* ✨
-"@
 
-Set-Content -Path "README.md" -Value $readmeContent -Encoding UTF8
